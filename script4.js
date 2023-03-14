@@ -1,3 +1,3 @@
 //Use Arrow Functions to Write Concise Anonymous Functions
-const magic = () => { return new Date();}
+const magic = () => new Date();
 console.log(magic())
